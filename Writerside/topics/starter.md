@@ -28,8 +28,7 @@ with R6 Downloads (Calan will supply the link when it happens), but if not here'
         <a href="Empty-MD-Topic.md">CDN Links!</a>
     </step>
     <step>
-        <p>Press <shortcut>Arrows</shortcut> and <shortcut>Enter</shortcut> to navigate the menu.</p>
-<img src="https://images.guns.lol/igvH5.png" alt="completion suggestions for procedure" border-effect="line"/>
+        <p>Just download them using the links in the subpage above and that is it, super simple.</p>
     </step>
 </procedure>
 
