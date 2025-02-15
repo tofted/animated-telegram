@@ -13,7 +13,7 @@ with R6 Downloads (Calan will supply the link when it happens), but if not here'
 
 <procedure title="Setting up R6 Downloader" id="settingupr6downloader">
     <step>
-        <a href="https://r6downloads.b-cdn.net/R6Downloader_V3_5.exe">Download R6 Downloader</a>
+        <a href="https://r6downloads.b-cdn.net/R6Downloader_V3_5.exe">Download R6 Downloader!</a>
     </step>
     <step>
         <p>Press <shortcut>Arrows</shortcut> and <shortcut>Enter</shortcut> to navigate the menu.</p>
